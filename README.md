@@ -38,10 +38,10 @@ For additional information about the dataset's contents, licensing, and usage gu
 1.  **Clone the Repository:**
 Start by cloning or downloading the repository from GitHub to your local machine.
 
-**2.  Navigate to the Species Directory:**
+2.  **Navigate to the Species Directory:**
 Inside the repository folder, you'll find separate directories for each mosquito species. These directories are named "an coustani," "an squamosus," "ma africanus," and "ma uniformis."
 
-**3.  Extract Relevant Sets:**
+3.  **Extract Relevant Sets:**
 For the mosquito species you're interested in, follow these steps:
 
 Example: Extracting "an coustani" Data
@@ -52,10 +52,10 @@ Inside the "an coustani" directory, extract the contents of the zip files named 
 
 Now, you have all the audio data for the "an coustani" species in the "an coustani" directory.
 
-**4.  Repeat for Other Species:**
+4.  **Repeat for Other Species:**
 If you need data from other species, repeat the steps above for the relevant species directories and corresponding sets.
 
-**5.  Using the Extracted Data:**
+5.  **Using the Extracted Data:**
 Once you've organized the data according to the species, you can use the audio files for analysis or any other tasks.
 
 
