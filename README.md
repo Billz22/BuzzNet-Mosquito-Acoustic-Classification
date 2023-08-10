@@ -45,8 +45,11 @@ Inside the repository folder, you'll find separate directories for each mosquito
 For the mosquito species you're interested in, follow these steps:
 
 Example: Extracting "an coustani" Data
+
 Create a new folder with the name "an coustani" in a location of your choice.
-Inside the "an coustani" directory, extract the contents of the zip files named "set-1" and "set-2". 
+
+Inside the "an coustani" directory, extract the contents of the zip files named "set-1" and "set-2".
+
 Now, you have all the audio data for the "an coustani" species in the "an coustani" directory.
 
 **4.  Repeat for Other Species:**
