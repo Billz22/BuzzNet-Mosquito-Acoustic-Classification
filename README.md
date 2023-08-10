@@ -21,7 +21,7 @@ Welcome to the BuzzNet: Mosquito Acoustic Classification repository, where we de
 
 **How to Get Started:**
 
-1.  Clone this repository to your local machine using git clone https://github.com/Billz22/BuzzNet-Mosquito-Acoustic-Classification.git.
+1.  Clone this repository to your local machine using git clone https://github.com/Billz22/BuzzNet_Mosquito_Acoustic_Classification.git.
 2.  Navigate to the code/ directory and follow the instructions in the README to set up and train the deep learning model.
 3.  Gain insights into mosquito species diversity by exploring the curated audio recordings in the data/audio/ directory, graciously provided by the [HumBugDB: a large-scale acoustic mosquito dataset](https://zenodo.org/record/4904800).
 
