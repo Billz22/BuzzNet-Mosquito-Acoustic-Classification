@@ -35,7 +35,7 @@ For additional information about the dataset's contents, licensing, and usage gu
 
 **Data Usage Instructions: Organizing Mosquito Species Data**
 
-**1.  Clone the Repository:**
+1.  **Clone the Repository:**
 Start by cloning or downloading the repository from GitHub to your local machine.
 
 **2.  Navigate to the Species Directory:**
