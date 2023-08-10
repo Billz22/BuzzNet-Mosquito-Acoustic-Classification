@@ -1,5 +1,5 @@
 # BuzzNet: Mosquito Acoustic Classification
-Accurate Acoustic Based Deep Learning Model for Mosquitoes Species Classification
+A Robust Deep Learning Model for Classification of Mosquitoes Species
 
 **Description:**
 
