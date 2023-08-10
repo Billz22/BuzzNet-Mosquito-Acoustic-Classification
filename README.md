@@ -13,7 +13,9 @@ Welcome to the BuzzNet: Mosquito Acoustic Classification repository, where we de
 🔊 **Acoustic Analysis:** Harnessing the inherent power of mosquito wingbeat sounds, our model detects intricate acoustic patterns, imperceptible to the human ear, that define each species.
 
 🌐 **Open Dataset:** As advocates for collaboration and scientific advancement, we utilize a curated dataset of mosquito wingbeat audio recordings from the [HumBugDB: a large-scale acoustic mosquito dataset](https://zenodo.org/record/4904800). We extend our sincere appreciation to the authors for providing this resource.
+
 🧠 **Deep Learning Architecture:** Our model leverages a sophisticated neural network architecture tailored for acoustic data analysis, facilitating efficient feature extraction from raw audio data and precise species classification.
+
 📈 **Model Evaluation:** Discover comprehensive evaluation results, meticulously documenting our model's performance across various metrics. This transparency fosters trust and replicability.
 
 
